@@ -17,7 +17,8 @@ Data sets can be found [here](https://s3.amazonaws.com/coach-courses-us/public/c
 ## Tools
 
 The following Python libraries were used for this analysis:
-* pandas - for data manipulation and analysis
-* numpy - for mathematical funcitons 
-* seaborn - for statistical data visualization
-* scipy - for scientific and technical computing
+* Pandas - for data manipulation and analysis
+* Numpy - for mathematical funcitons 
+* Seaborn - for statistical data visualizations
+* Matplotlib - for interactive visualizations
+* Scipy - for scientific and technical computing
